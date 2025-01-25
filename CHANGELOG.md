@@ -1,3 +1,3 @@
-## 0.0.1
+## 1.0.5
 
-* TODO: This is initial release
+* Bug fixing
