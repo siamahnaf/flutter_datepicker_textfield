@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_datepicker_textfield/date_picker_controller.dart';
 
 class DatepickerTextfield extends StatefulWidget {
   final String? Function(String?)? validator;
@@ -105,4 +104,10 @@ class _DatepickerTextfieldState extends State<DatepickerTextfield> {
     _dateController.dispose();
     super.dispose();
   }
+}
+
+class DatePickerController extends ChangeNotifier {
+  DateTime? selectedDate;
+
+  DatePickerController({this.selectedDate});
 }

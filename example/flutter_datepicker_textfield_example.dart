@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_datepicker_textfield/date_picker_controller.dart';
 import 'package:flutter_datepicker_textfield/flutter_datepicker_textfield.dart';
 
 class DatePickerExample extends StatelessWidget {

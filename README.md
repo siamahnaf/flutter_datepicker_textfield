@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/logo/logo-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/logo/logo-black.png">
+  <img alt="Siam Ahnaf" src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/logo/logo-black.png" height="auto" width="240">
+</picture>
+
 # Flutter Datepicker Textfield
 
 A flutter datepicker widget with material design styling in a textfield with all customization ability.
@@ -65,7 +71,7 @@ DatepickerTextfield(
 ```
 
 ## Properties
-- **Validator**: Text field validator
+- **validator**: Text field validator
 - **onChanged**: To listen date change
 - **initialValue**: Initial Value for Date Picker
 - **controller**: `DatePIckerController` a controller
@@ -78,5 +84,18 @@ DatepickerTextfield(
 ## Contribution & Feature Request
 Feel to create issue or contribute
 
-## Created By
-This project is created by [Siam Ahnaf](https://siamahnaf.com)
+## Create By Siam Ahnaf
+<div style="display: flex; align-items: center; gap: 3px;">
+<a href="https://wa.me/8801611994403"><img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/icons/whatsapp.png" width="40" height="40"></a>
+<a href="https://siamahnaf.com/" style="margin-right: 8px"><img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/icons/web.png" width="40" height="40"></a>
+<a href="https://www.linkedin.com/in/siamahnaf/" style="margin-right: 8px"><img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/icons/linkedin.png" width="40" height="40"></a>
+<a href="https://x.com/siamahnaf198" style="margin-right: 8px"><img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/icons/x.png" width="40" height="40"></a>
+<a href="https://www.facebook.com/siamahnaf198/" style="margin-right: 8px"><img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/icons/facebook.png" width="40" height="40"></a>
+<a href="https://t.me/siamahnaf198" style="margin-right: 8px"><img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/icons/telegram.png" width="40" height="40"></a>
+<a href="https://www.npmjs.com/~siamahnaf" style="margin-right: 8px"><img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/icons/npm.png" width="40" height="40"></a>
+</div>
+
+
+------------
+
+<p align="center" color="red"><a href="https://www.siamahnaf.com/">www.siamahnaf.com</a></p>
